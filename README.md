@@ -1,2 +1,2 @@
-# Examen_Android_I-Parcial
-Examen práctico individual - Primer Parcial - Cesia Flores
+# Examen_I Parcial
+Examen práctico individual - Primer Parcial - Cesia Samahi Flores Reconco - 223630018
